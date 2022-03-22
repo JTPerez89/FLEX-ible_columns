@@ -1,0 +1,23 @@
+.row {
+  width: 800px;
+  height: 100px;
+  display: flex;
+}
+
+.col {
+  background-color: grey;
+  margin: 5px;
+  flex: 1;
+}
+
+.col-2 {
+  background-color: lightblue;
+  margin: 5px;
+  flex: 2;
+}
+
+.col-3 {
+  background-color: beige;
+  margin: 5px;
+  flex: 3;
+}
